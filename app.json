@@ -1,0 +1,7 @@
+{
+  "name": "Chat Node.js Denis",
+  "description": "Denis Chat Node.js",
+  "repository": "https://github.com/Denis7371/Chat.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
