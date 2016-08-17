@@ -1,7 +1,7 @@
 {
-  "name": "Chat Node.js Denis",
-  "description": "Denis Chat Node.js",
+  "name": "Chat",
+  "description": "Node.js + Socket.io Chat",
   "repository": "https://github.com/Denis7371/Chat.git",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "logo": "https://cdn2.iconfinder.com/data/icons/nodejs-1/128/nodejs-128.png",
+  "keywords": ["chat", "nodejs", "socketio"]
 }
